@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+struct Lead {
+    let mdid: String
+    let hasAi: Bool
+    let aiStatus: AIStatus
+}

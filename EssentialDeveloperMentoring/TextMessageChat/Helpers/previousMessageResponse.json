@@ -1,0 +1,388 @@
+[{
+    "id": "TMS8C4C182CC40B43BF9B351EDB6A031094",
+    "date": "2021-10-12T14:59:48.07",
+    "title": "Michael Lese sent Jlowe AItester a text message",
+    "description": "test auto mute",
+    "type": "SMS",
+    "details": [{
+        "id": "TMS8C4C182CC40B43BF9B351EDB6A031094",
+        "type": "Lead",
+        "from": "Michael Lese",
+        "to": "Jlowe AItester",
+        "toMember": {
+            "mdid": "MMA9F54AC8611C445382334164B772E4CE",
+            "firstName": "Jlowe",
+            "lastName": "AItester"
+        },
+        "fromMember": {
+            "mdid": "MMF3E938E31E35449A9E170EDA3E145033",
+            "firstName": "Michael",
+            "lastName": "Lese"
+        },
+        "sentTime": "2021-10-12T14:59:48.07",
+        "isDrip": false,
+        "isPlip": false,
+        "attachments": [""]
+    }],
+    "related": null
+}, {
+    "id": "15420774",
+    "date": "2021-10-12T14:59:48",
+    "title": "AI Conversation has Muted",
+    "description": "AI conversation has muted due to agent texting the lead.",
+    "type": "AIConversationMute",
+    "details": [{
+        "aiConversationStatus": "Muted",
+        "aiDispositionStatus": "PassToAgent"
+    }],
+    "related": null
+}, {
+    "id": "15420596",
+    "date": "2021-10-12T14:18:57",
+    "title": "AI Conversation has Unmuted",
+    "description": "AI conversation has unmuted",
+    "type": "AIConversationUnmute",
+    "details": [{
+        "aiConversationStatus": "Muted",
+        "aiDispositionStatus": "PassToAgent"
+    }],
+    "related": null
+}, {
+    "id": "15418520",
+    "date": "2021-10-12T10:07:53",
+    "title": "AI Conversation has Muted",
+    "description": "AI conversation has muted due to agent texting the lead.",
+    "type": "AIConversationMute",
+    "details": [{
+        "aiConversationStatus": "Muted",
+        "aiDispositionStatus": "PassToAgent"
+    }],
+    "related": null
+}, {
+    "id": "TMS686B7768814A4A6DA0B3958DF821A9D7",
+    "date": "2021-10-12T10:07:52.323",
+    "title": "Michael Lese sent Jlowe AItester a text message",
+    "description": "test",
+    "type": "SMS",
+    "details": [{
+        "id": "TMS686B7768814A4A6DA0B3958DF821A9D7",
+        "type": "Lead",
+        "from": "Michael Lese",
+        "to": "Jlowe AItester",
+        "toMember": {
+            "mdid": "MMA9F54AC8611C445382334164B772E4CE",
+            "firstName": "Jlowe",
+            "lastName": "AItester"
+        },
+        "fromMember": {
+            "mdid": "MMF3E938E31E35449A9E170EDA3E145033",
+            "firstName": "Michael",
+            "lastName": "Lese"
+        },
+        "sentTime": "2021-10-12T10:07:52.323",
+        "isDrip": false,
+        "isPlip": false,
+        "attachments": [""]
+    }],
+    "related": null
+}, {
+    "id": "15418518",
+    "date": "2021-10-12T10:07:47",
+    "title": "AI Conversation has Unmuted",
+    "description": "AI conversation has unmuted",
+    "type": "AIConversationUnmute",
+    "details": [{
+        "aiConversationStatus": "Muted",
+        "aiDispositionStatus": "PassToAgent"
+    }],
+    "related": null
+}, {
+    "id": "15418511",
+    "date": "2021-10-12T10:06:31",
+    "title": "AI Conversation has Muted",
+    "description": "AI conversation has muted due to agent muting lead AI conversation.",
+    "type": "AIConversationMute",
+    "details": [{
+        "aiConversationStatus": "Muted",
+        "aiDispositionStatus": "PassToAgent"
+    }],
+    "related": null
+}, {
+    "id": "15418510",
+    "date": "2021-10-12T10:06:26",
+    "title": "AI Conversation has Unmuted",
+    "description": "AI conversation has unmuted",
+    "type": "AIConversationUnmute",
+    "details": [{
+        "aiConversationStatus": "Muted",
+        "aiDispositionStatus": "PassToAgent"
+    }],
+    "related": null
+}, {
+    "id": "15418456",
+    "date": "2021-10-12T09:59:38",
+    "title": "AI Conversation has Muted",
+    "description": "AI conversation has muted due to agent texting the lead.",
+    "type": "AIConversationMute",
+    "details": [{
+        "aiConversationStatus": "Muted",
+        "aiDispositionStatus": "PassToAgent"
+    }],
+    "related": null
+}, {
+    "id": "TMS3F4137F5FB2B4461BD545E8C04B81F37",
+    "date": "2021-10-12T09:59:37.62",
+    "title": "Michael Lese sent Jlowe AItester a text message",
+    "description": "test",
+    "type": "SMS",
+    "details": [{
+        "id": "TMS3F4137F5FB2B4461BD545E8C04B81F37",
+        "type": "Lead",
+        "from": "Michael Lese",
+        "to": "Jlowe AItester",
+        "toMember": {
+            "mdid": "MMA9F54AC8611C445382334164B772E4CE",
+            "firstName": "Jlowe",
+            "lastName": "AItester"
+        },
+        "fromMember": {
+            "mdid": "MM4EA1AE44327840F482C800D1D8D6AAC0",
+            "firstName": "Michael",
+            "lastName": "Lese"
+        },
+        "sentTime": "2021-10-12T09:59:37.62",
+        "isDrip": false,
+        "isPlip": false,
+        "attachments": [""]
+    }],
+    "related": null
+}, {
+    "id": "15418454",
+    "date": "2021-10-12T09:59:25",
+    "title": "AI Conversation has Unmuted",
+    "description": "AI conversation has unmuted",
+    "type": "AIConversationUnmute",
+    "details": [{
+        "aiConversationStatus": "Muted",
+        "aiDispositionStatus": "PassToAgent"
+    }],
+    "related": null
+}, {
+    "id": "TMSC2041F7543D6453087EEBD24ECD42F05",
+    "date": "2021-10-12T09:55:00.373",
+    "title": "Michael Lese sent Jlowe AItester a text message",
+    "description": "test",
+    "type": "SMS",
+    "details": [{
+        "id": "TMSC2041F7543D6453087EEBD24ECD42F05",
+        "type": "Lead",
+        "from": "Michael Lese",
+        "to": "Jlowe AItester",
+        "toMember": {
+            "mdid": "MMA9F54AC8611C445382334164B772E4CE",
+            "firstName": "Jlowe",
+            "lastName": "AItester"
+        },
+        "fromMember": {
+            "mdid": "MM4EA1AE44327840F482C800D1D8D6AAC0",
+            "firstName": "Michael",
+            "lastName": "Lese"
+        },
+        "sentTime": "2021-10-12T09:55:00.373",
+        "isDrip": false,
+        "isPlip": false,
+        "attachments": [""]
+    }],
+    "related": null
+}, {
+    "id": "15418419",
+    "date": "2021-10-12T09:55:00",
+    "title": "AI Conversation has Muted",
+    "description": "AI conversation has muted due to agent texting the lead.",
+    "type": "AIConversationMute",
+    "details": [{
+        "aiConversationStatus": "Muted",
+        "aiDispositionStatus": "PassToAgent"
+    }],
+    "related": null
+}, {
+    "id": "15418417",
+    "date": "2021-10-12T09:54:51",
+    "title": "AI Conversation has Unmuted",
+    "description": "AI conversation has unmuted",
+    "type": "AIConversationUnmute",
+    "details": [{
+        "aiConversationStatus": "Muted",
+        "aiDispositionStatus": "PassToAgent"
+    }],
+    "related": null
+}, {
+    "id": "15418375",
+    "date": "2021-10-12T09:48:07",
+    "title": "AI Conversation has Muted",
+    "description": "AI conversation has muted due to agent texting the lead.",
+    "type": "AIConversationMute",
+    "details": [{
+        "aiConversationStatus": "Muted",
+        "aiDispositionStatus": "PassToAgent"
+    }],
+    "related": null
+}, {
+    "id": "TMSE85EE511D486460599E4599E1B97E421",
+    "date": "2021-10-12T09:48:06.417",
+    "title": "Michael Lese sent Jlowe AItester a text message",
+    "description": "test",
+    "type": "SMS",
+    "details": [{
+        "id": "TMSE85EE511D486460599E4599E1B97E421",
+        "type": "Lead",
+        "from": "Michael Lese",
+        "to": "Jlowe AItester",
+        "toMember": {
+            "mdid": "MMA9F54AC8611C445382334164B772E4CE",
+            "firstName": "Jlowe",
+            "lastName": "AItester"
+        },
+        "fromMember": {
+            "mdid": "MM4EA1AE44327840F482C800D1D8D6AAC0",
+            "firstName": "Michael",
+            "lastName": "Lese"
+        },
+        "sentTime": "2021-10-12T09:48:06.417",
+        "isDrip": false,
+        "isPlip": false,
+        "attachments": [""]
+    }],
+    "related": null
+}, {
+    "id": "15418372",
+    "date": "2021-10-12T09:47:53",
+    "title": "AI Conversation has Unmuted",
+    "description": "AI conversation has unmuted",
+    "type": "AIConversationUnmute",
+    "details": [{
+        "aiConversationStatus": "Muted",
+        "aiDispositionStatus": "PassToAgent"
+    }],
+    "related": null
+}, {
+    "id": "TMS400FEB88F5EB434E8E9818E63C505DF0",
+    "date": "2021-10-04T14:49:27.613",
+    "title": "Michael Lese sent Jlowe AItester a text message",
+    "description": "test clear",
+    "type": "SMS",
+    "details": [{
+        "id": "TMS400FEB88F5EB434E8E9818E63C505DF0",
+        "type": "Lead",
+        "from": "Michael Lese",
+        "to": "Jlowe AItester",
+        "toMember": {
+            "mdid": "MMA9F54AC8611C445382334164B772E4CE",
+            "firstName": "Jlowe",
+            "lastName": "AItester"
+        },
+        "fromMember": {
+            "mdid": "MMF3E938E31E35449A9E170EDA3E145033",
+            "firstName": "Michael",
+            "lastName": "Lese"
+        },
+        "sentTime": "2021-10-04T14:49:27.613",
+        "isDrip": false,
+        "isPlip": false,
+        "attachments": [""]
+    }],
+    "related": null
+}, {
+    "id": "TMSED78B53B96BC4386BE095DF8B0460A80",
+    "date": "2021-09-13T14:32:17.59",
+    "title": "Michael Lese sent Jlowe AItester a text message",
+    "description": "test send",
+    "type": "SMS",
+    "details": [{
+        "id": "TMSED78B53B96BC4386BE095DF8B0460A80",
+        "type": "Lead",
+        "from": "Michael Lese",
+        "to": "Jlowe AItester",
+        "toMember": {
+            "mdid": "MMA9F54AC8611C445382334164B772E4CE",
+            "firstName": "Jlowe",
+            "lastName": "AItester"
+        },
+        "fromMember": {
+            "mdid": "MMF3E938E31E35449A9E170EDA3E145033",
+            "firstName": "Michael",
+            "lastName": "Lese"
+        },
+        "sentTime": "2021-09-13T14:32:17.59",
+        "isDrip": false,
+        "isPlip": false,
+        "attachments": [""]
+    }],
+    "related": null
+}, {
+    "id": "15168928",
+    "date": "2021-09-08T14:21:44",
+    "title": "AI Conversation has Muted",
+    "description": "AI conversation has muted due to agent muting lead AI conversation.",
+    "type": "AIConversationMute",
+    "details": [{
+        "aiConversationStatus": "Muted",
+        "aiDispositionStatus": "PassToAgent"
+    }],
+    "related": null
+}, {
+    "id": "15168320",
+    "date": "2021-09-08T12:40:06",
+    "title": "AI Conversation has Unmuted",
+    "description": "AI conversation has unmuted",
+    "type": "AIConversationUnmute",
+    "details": [{
+        "aiConversationStatus": "Muted",
+        "aiDispositionStatus": "PassToAgent"
+    }],
+    "related": null
+}, {
+    "id": "15167931",
+    "date": "2021-09-08T11:53:48",
+    "title": "AI Conversation has Muted",
+    "description": "AI conversation has muted due to agent muting lead AI conversation.",
+    "type": "AIConversationMute",
+    "details": [{
+        "aiConversationStatus": "Muted",
+        "aiDispositionStatus": "PassToAgent"
+    }],
+    "related": null
+}, {
+    "id": "15167918",
+    "date": "2021-09-08T11:47:45",
+    "title": "AI Conversation has Unmuted",
+    "description": "AI conversation has unmuted",
+    "type": "AIConversationUnmute",
+    "details": [{
+        "aiConversationStatus": "Muted",
+        "aiDispositionStatus": "PassToAgent"
+    }],
+    "related": null
+}, {
+    "id": "15167914",
+    "date": "2021-09-08T11:47:23",
+    "title": "AI Conversation has Muted",
+    "description": "AI conversation has muted due to agent muting lead AI conversation.",
+    "type": "AIConversationMute",
+    "details": [{
+        "aiConversationStatus": "Muted",
+        "aiDispositionStatus": "PassToAgent"
+    }],
+    "related": null
+}, {
+    "id": "15167866",
+    "date": "2021-09-08T11:42:06",
+    "title": "AI Conversation has Unmuted",
+    "description": "AI conversation has unmuted",
+    "type": "AIConversationUnmute",
+    "details": [{
+        "aiConversationStatus": "Muted",
+        "aiDispositionStatus": "PassToAgent"
+    }],
+    "related": null
+}]
